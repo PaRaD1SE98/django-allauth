@@ -71,6 +71,8 @@ Supported Providers
 
 - CILogon (OAuth2)
 
+- Clever (OAuth2)
+
 - Coinbase (OAuth2)
 
 - Dataporten (OAuth2)
@@ -135,6 +137,8 @@ Supported Providers
 
 - Hubic (OAuth2)
 
+- Hubspot (OAuth2)
+
 - Instagram (OAuth2)
 
 - JupyterHub (OAuth2)
@@ -183,6 +187,8 @@ Supported Providers
 
 - Pinterest (OAuth2)
 
+- Pocket (OAuth)
+
 - QuickBooks (OAuth2)
 
 - Reddit (OAuth2)
@@ -196,6 +202,8 @@ Supported Providers
 - Shopify (OAuth2)
 
 - Slack (OAuth2)
+
+- Snapchat (OAuth2)
 
 - SoundCloud (OAuth2)
 
